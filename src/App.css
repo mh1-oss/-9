@@ -289,7 +289,14 @@ header {
     right: 20px;
     top: 20px;
   }
-
+  .login{
+    width: 90%;
+    margin: 0 auto;
+  }
+  header .trial{
+    width: 90%;
+    margin: 0 auto;
+  }
   .hamburger.active .bar:nth-child(2) {
     opacity: 0;
   }
@@ -346,12 +353,9 @@ header {
   }
 
   .hero-text h1 {
-    font-size: 36px;
+    font-size: 48px;
   }
 
-  .hero-text p {
-    font-size: 18px;
-  }
 
   .block {
     height: auto;
